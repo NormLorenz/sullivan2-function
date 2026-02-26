@@ -1,0 +1,5 @@
+{
+  "name": "Sullivan's Excavating Vercel Serverless Function",
+  "description": "A contact form and Vercel serverless function using Resend for Sullivan's Excavating.",
+  "requestFramePermissions": []
+}
